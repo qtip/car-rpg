@@ -31,16 +31,16 @@ Conflict Resolution
 When a PC says his or her character does something non-trivial where success or failure will affect the narrative significantly (e.g. jump a gorge, hack a computer, cook an important meal), he or she must "roll" for it.
 
 1. The PC chooses a clich&eacute; that still has points left.
-+ The GM chooses a difficulty number (_DC_), usually 1 &le; _DC_ &le; 4.
-+ The GM calculates the number of "rolls" the player will make: |_DC_ - _clich&eacute; points_| + 1.
-+ If _DC_ > _clich&eacute; points_, the PC must "roll" *all* successes.
-+ If _DC_ < _clich&eacute; points_, the PC need only "roll" *1* success.
-+ For each "roll":
-  1. The GM secretly chooses a number, 1 or 2.
-  + The player guesses either 1 or 2.
-  + If guessed correctly, add one success.
-+ If the PC got the required number of successes (as referenced in steps 4 and 5), he or she explains his or her action.
-+ If the PC did not get the required number of successes, the GM explains how he or she failed.
+2. The GM chooses a difficulty number (_DC_), usually 1 &le; _DC_ &le; 4.
+3. The GM calculates the number of "rolls" the player will make: |_DC_ - _clich&eacute; points_| + 1.
+4. If _DC_ > _clich&eacute; points_, the PC must "roll" *all* successes.
+5. If _DC_ < _clich&eacute; points_, the PC need only "roll" *1* success.
+6. For each "roll":
+    * The GM secretly chooses a number, 1 or 2.
+    * The player guesses either 1 or 2.
+    * If guessed correctly, add one success.
+7. If the PC got the required number of successes (as referenced in steps 4 and 5), he or she explains his or her action.
+8. If the PC did not get the required number of successes, the GM explains how he or she failed.
 
 Put another way:
 
